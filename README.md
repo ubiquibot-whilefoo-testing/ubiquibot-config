@@ -1,0 +1,1 @@
+# ubiquibot-config
